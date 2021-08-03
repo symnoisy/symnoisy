@@ -47,8 +47,6 @@
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white">
 </p>
