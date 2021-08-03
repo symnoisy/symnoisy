@@ -1,5 +1,5 @@
 <p>
-  👋&nbsp; Hi there! I'm <b>Fintech/Backend Engineer</b> using Python. 🚀<br/>&nbsp;
+  👋 Hi there! I'm <b>Fintech/Backend Engineer</b> using Python. 🚀<br/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=symnoisy&count_private=true&show_icons=true&theme=tokyonight">
 </p>
 
