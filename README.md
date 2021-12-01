@@ -8,7 +8,7 @@
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+<!--   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>  -->
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql"> 
 </p>
 
